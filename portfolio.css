@@ -1,0 +1,557 @@
+body {
+    margin:00;
+    padding:0;
+    background-color: 	#707070;
+}
+/*-------------------Navigation Bar-----------------------*/
+.container{
+  
+    float: left;
+    width: 300px;
+    height: 1100px;
+    margin-top: 00px;
+    background-color: #000;
+}
+.box1{
+    float: left;
+    width: 255px;
+    height: 3px;
+    margin-top: 15px;
+    background-color: #707070;
+    margin-left: 20px
+}
+.top_navbar{
+  float: right;
+  margin-top: 20px;
+
+}
+.top_navbar ul{
+    margin-top: 00px;
+    list-style-type: None;
+    display: inline;
+}
+.top_navbar ul li{
+    display: inline;
+
+}
+.link{
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none !important;
+    padding: 20px;
+   
+}
+.link:hover {
+    color:white;
+  }
+ 
+
+/*-----------------Vertical Container---------------*/
+
+.pic{
+    width: 150px;
+    float: left;
+    margin-left: 45px;
+    margin-top: 28px;
+    border-radius: 50%;
+    
+}
+.RitikaNunia{
+    color: #707070;
+    margin-top: 210px;
+    margin-left: 32px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.Education{
+    color: #707070;
+    margin-top: 00px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.box2{
+    float: left;
+    width: 255px;
+    height: 3px;
+    margin-top: 00px;
+    background-color: #707070;
+    margin-left: 00px
+}
+.Btech{
+    color: #707070;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.college{
+    color: #707070;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 13px;
+    font-weight: normal;
+}
+.phone-color{
+    color: #707070;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.phone{
+    font-size: 13px;
+    color: #707070;
+    float: right;
+    margin-right: 120px;
+    margin-top: 20px;
+}
+.gmail-color{
+    color: #707070;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 09px;
+    text-decoration: none !important;
+}
+.gmail{
+    font-size: 12px;
+    color: #707070;
+    float: right;
+    margin-right: 70px;
+    margin-top: 15px;
+}
+.github{
+    font-size: 12px;
+    color: #707070;
+    float: right;
+    margin-right: 140px;
+    margin-top: -20px;
+}
+.instagram{
+    font-size: 12px;
+    color: #707070;
+    float: right;
+    margin-right: 150px;
+    margin-top: 20px;
+}
+.facebook{
+    font-size: 12px;
+    color: #707070;
+    float: right;
+    margin-right: 140px;
+    margin-top: 20px;
+}
+/*----------------Profile---------------------*/
+.profile{
+    margin-top: 00px;
+}
+.ab{
+    color: red;
+    margin-top: 00px;
+    margin-left: 40px;
+    padding-top: 100px;
+    padding-left: 20px;
+}
+.user{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 35px;
+    position: sticky;
+}
+#pro{
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 820px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-bottom: 00px;
+    float: right;
+}
+.box3{
+    float: left;
+    width: 3px;
+    height: 100px;
+    margin-top: 00px;
+    background-color: black;
+    margin-left: 40px
+}.textp1 p{
+    font-weight: bold;
+    float: left;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+.textp2 p{
+    font-weight: bold;
+    margin-top: 00px;
+    margin-left: -595px;
+}
+.textp3 p{
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: -595px;
+
+}
+#proj{
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 800px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding-bottom: 00px;
+    float: right;
+}
+.book{
+    margin-top: -0px;
+    margin-left: 30px;
+    font-size: 35px;
+    position: sticky;
+}
+.box4{
+    float: left;
+    width: 3px;
+    height: 80px;
+    margin-top: 00px;
+    background-color: black;
+    margin-left: 40px
+}
+.firstProject{
+    float: left;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.secondProject{
+    float: left;
+    font-weight: bold;
+    margin-left: -240px;
+    margin-top: 30px;
+
+}
+#tproj{
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 675px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding-bottom: 00px;
+    float: right;
+}
+.tasks{
+    margin-top: 02px;
+    margin-left: 30px;
+    font-size: 35px;
+    position: sticky;
+}
+.box5{
+    float: left;
+    width: 3px;
+    height: 100px;
+    margin-top: 00px;
+    background-color: black;
+    margin-left: 40px
+
+}
+.TrainingPython{
+    float: left;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.PythonProject{
+    float: left;
+    font-weight: bold;
+    margin-left: -567px;
+    margin-top: 20px;
+
+}
+.TrainingJava{
+    float: left;
+    font-weight: bold;
+    margin-left: -567px;
+    margin-top: 40px;
+
+}
+.skillsIcon{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 890px;
+    margin-top: 00px;
+    margin-bottom: 40px;
+    padding-bottom: 00px;
+    float: right;
+}
+#skill{
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 820px;
+    margin-top: -70px;
+    margin-bottom: 10px;
+    padding-bottom: 00px;
+    float: right;
+}
+.box6{
+    float: left;
+    width: 3px;
+    height: 100px;
+    margin-top: -37px;
+    background-color: black;
+    margin-left: 40px
+
+}
+.c{
+    background-color: black;
+    font-size: 10px;
+    margin-bottom: 09px;
+    margin-left: 60px;
+    padding-bottom: 15px;
+    padding-top: 01px;
+    width: 57px;
+    height: 13px;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    vertical-align:middle;
+    justify-content:center;
+    align-items: center;
+}
+.c:hover{
+    opacity: 0.5;
+}
+.python{
+    background-color: black;
+    font-size: 10px;
+    margin-top: -38px;
+    margin-left: 122px;
+    padding-bottom: 15px;
+    padding-top: 01px;
+    width: 57px;
+    height: 13px;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    vertical-align:middle;
+    justify-content:center;
+    align-items: center;
+    
+}
+.python:hover{
+    opacity: 0.5;
+}
+.photoshop{
+    background-color: black;
+    font-size: 10px;
+    margin-top: -29px;
+    margin-left: 184px;
+    padding-bottom: 15px;
+    padding-top: 01px;
+    width: 57px;
+    height: 13px;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    vertical-align:middle;
+    justify-content:center;
+    align-items: center;
+    
+}
+.photoshop:hover{
+    opacity: 0.5;
+}
+.indesign{
+    background-color: black;
+    font-size: 10px;
+    margin-top: -29px;
+    margin-left: 246px;
+    padding-bottom: 15px;
+    padding-top: 01px;
+    width: 57px;
+    height: 13px;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    vertical-align:middle;
+    justify-content:center;
+    align-items: center;
+    
+}
+.indesign:hover{
+    opacity: 0.5;
+}
+.java{
+    background-color: black;
+    font-size: 10px;
+    margin-top: 10px;
+    margin-left: 80px;
+    padding-bottom: 15px;
+    padding-top: 01px;
+    width: 57px;
+    height: 13px;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    vertical-align:middle;
+    justify-content:center;
+    align-items: center;
+}
+.java:hover{
+    opacity: 0.5;
+}
+.html{
+    background-color: black;
+    font-size: 10px;
+    margin-top: -28px;
+    margin-left: 140px;
+    padding-bottom: 15px;
+    padding-top: 01px;
+    width: 57px;
+    height: 13px;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    vertical-align:middle;
+    justify-content:center;
+    align-items: center;
+}
+.html:hover{
+    opacity: 0.5;
+}
+.css{
+    background-color: black;
+    font-size: 10px;
+    margin-top: -29px;
+    margin-left: 200px;
+    padding-bottom: 15px;
+    padding-top: 01px;
+    width: 57px;
+    height: 13px;
+    color:white;
+    border-radius:15px;
+    text-align:center;
+    vertical-align:middle;
+    justify-content:center;
+    align-items: center;
+    opacity: 1.0;
+}
+.css:hover{
+    opacity: 0.5;
+}
+.user-plus{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 890px;
+    margin-top: 00px;
+    margin-bottom: 40px;
+    padding-bottom: 00px;
+    float: right;
+}
+#personalskills{
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 730px;
+    margin-top: -70px;
+    margin-bottom: 10px;
+    padding-bottom: 00px;
+    float: right;
+}
+.box7{
+    float: left;
+    width: 3px;
+    height: 140px;
+    margin-top: -37px;
+    background-color: black;
+    margin-left: 40px
+
+}
+.PS1{
+    float: left;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: -25px;
+}
+.PS2{
+    float: left;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 00px;
+}
+.PS3{
+    float: left;
+    font-weight: bold;
+    margin-left: -245px;
+    margin-top: 25px;
+}
+.PS4{
+    float: left;
+    font-weight: bold;
+    margin-left: -245px;
+    margin-top: 50px;
+}
+.users{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 896px;
+    margin-top: 02px;
+    margin-bottom: 40px;
+    padding-bottom: 00px;
+    float: right;
+}
+#ExtracurricularActivities{
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 630px;
+    margin-top: -70px;
+    margin-bottom: 10px;
+    padding-bottom: 00px;
+    float: right;
+}
+.box8{
+    float: left;
+    width: 3px;
+    height: 120px;
+    margin-top: -37px;
+    background-color: black;
+    margin-left: 40px
+
+}
+.A1{
+    float: left;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: -25px;
+}
+.A2{
+    float: left;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 00px;
+}
+.A3{
+    float: left;
+    font-weight: bold;
+    margin-left: -304px;
+    margin-top: 25px;
+}
+.dec{
+    float: left;
+    font-weight: bold;
+    margin-left: -375px;
+    margin-top: 90px;
+   
+}
+
+
+/*------------
+#vertical_Container{
+    background: black;
+    color: black;
+    background-color: white;
+    width: 250px;
+    height:200px;
+}
+
+.ritika{
+    color: white;
+
+}
+----------*/
+
+
