@@ -1,2 +1,2 @@
 Portfolio Link:
-https://ritika-portfolio.herokuapp.com/#skill
+https://ritika-portfolio.herokuapp.com
